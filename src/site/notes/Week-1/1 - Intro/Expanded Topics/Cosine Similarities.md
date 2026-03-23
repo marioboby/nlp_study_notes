@@ -37,12 +37,12 @@ If a job description is one paragraph long, but your resume is five pages long, 
 
 To calculate the cosine of the angle between two vectors, we use this formula:
 
-$$ Cosine Similarity=cos(\theta)=\frac{∥A∥ ∥B∥}{A⋅B} $$​
+$$\text{Cosine Similarity} = \cos(\theta) = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|}$$​
 
 Here is what those pieces mean:
 
-1. **The Numerator (A⋅B):** This is the **Dot Product**. You multiply the corresponding dimensions together and sum them up. It measures how much the two vectors push in the same direction.
-    
+1. **The Numerator ($\mathbf{A} \cdot \mathbf{B}$):** This is the **Dot Product**. You multiply the corresponding dimensions together and sum them up. It measures how much the two vectors push in the same direction.
+    <br>
 2. **The Denominator (∥A∥∥B∥):** These are the **Magnitudes** (the lengths) of the vectors. Dividing by this normalizes the result, stripping away the impact of the document's length.
     
 
