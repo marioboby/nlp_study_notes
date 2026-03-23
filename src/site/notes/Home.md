@@ -7,9 +7,9 @@
 
 # Outline
 
-1. [[Home#Week 1\|#Week 1]]
-	1. [[Home#Intro and why NLP\|#Intro and why NLP]]
-	2. [[Home#Regex\|#Regex]]
+1. [[Home#Week 1\|Week 1]]
+	1. [[Home#Intro and why NLP\|Intro]]
+	2. [[Home#Regex\|Regex]]
 
 2. Week 2
 # Week 1
@@ -20,7 +20,11 @@
 [[Week-1/1 - Intro/Why NLP Is Booming\|Why NLP Is Booming]]
 [[Week-1/1 - Intro/Three Categories for Techniques for NLP\|Three Categories for Techniques for NLP]]
 [[Week-1/1 - Intro/NLP Tasks\|NLP Tasks]]
+[[Week-1/1 - Intro/NLP Pipeline\|NLP Pipeline]]
 # Regex 
 
 [[Week-1/2 - Regex/Regex for NLP\|Regex for NLP]]
 [[Week-1/2 - Regex/Regex Unique Tokens\|Regex Unique Tokens]]
+
+## Expanded Topics
+[[Week-1/1 - Intro/Expanded Topics/Cosine Similarities\|Cosine Similarities]]

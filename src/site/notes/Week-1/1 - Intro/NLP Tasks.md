@@ -83,3 +83,17 @@ An unsupervised learning task where the algorithm scans a massive volume of unla
 ### 10. Voice Assistants
 
 A multi-step pipeline that relies on Speech-to-Text, intent recognition (NLP), and Text-to-Speech to allow humans to control hardware or retrieve information purely via voice.
+
+### Key Insights and Terminology
+
+|Term/Concept|Description|
+|---|---|
+|**TF-IDF**|Converts text into numerical vectors by weighting term frequency inversely by document frequency.|
+|**Naive Bayes Classifier**|A probabilistic classifier used for categorizing text based on features.|
+|**OCR (Tesseract)**|Optical Character Recognition tool converting images of text into machine-readable text.|
+|**Doc2Vec**|Technique to convert entire documents into fixed-length vectors.|
+|**Sentence Transformer**|Model that encodes sentences into vectors for similarity comparisons.|
+|**Cosine Similarity**|Metric to measure similarity between two vectors, often used in NLP for text similarity.|
+|**Encoder-Decoder RNN**|Neural architecture used in sequence-to-sequence tasks like machine translation.|
+|**Language Modeling**|Predicting the probability distribution of the next word(s) in a sequence.|
+|**Topic Modeling**|Unsupervised technique to find abstract topics in large text corpora.|

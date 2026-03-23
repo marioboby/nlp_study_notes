@@ -56,3 +56,7 @@ These tokens don't match characters; they match _positions_ in the text (like th
 |---|---|---|---|---|
 |`^`|Start of the string/line|`Hello World`|`^Hello`|`Hello` (only if it's the first word)|
 |`$`|End of the string/line|`Hello World`|`World$`|`World` (only if it's the last word)|
+
+more could be found here
+
+<iframe src="/img/user/Week-1/2%20-%20Regex/python-regular-expressions-cheat-sheet.pdf" width="100%" height="900px" title="python-regular-expressions-cheat-sheet.pdf" style="border:1px solid #ccc;"></iframe>
