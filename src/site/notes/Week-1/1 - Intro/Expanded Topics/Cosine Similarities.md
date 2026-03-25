@@ -36,8 +36,8 @@ If a job description is one paragraph long, but your resume is five pages long, 
 ### Step 3: The Formula
 
 To calculate the cosine of the angle between two vectors, we use this formula:
-
-$$\text{Cosine Similarity} = \cos(\theta) = \frac{{A} \cdot {B}}{\|{A}\| \|{B}\|}$$​
+​
+`cos(theta) = A . B / ||A|| ||B||`
 
 Here is what those pieces mean:
 
