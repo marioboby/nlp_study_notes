@@ -21,10 +21,24 @@
 [[Week-1/1 - Intro/Three Categories for Techniques for NLP\|Three Categories for Techniques for NLP]]
 [[Week-1/1 - Intro/NLP Tasks\|NLP Tasks]]
 [[Week-1/1 - Intro/NLP Pipeline\|NLP Pipeline]]
-# Regex 
+
+---
+## Regex 
 
 [[Week-1/2 - Regex/Regex for NLP\|Regex for NLP]]
 [[Week-1/2 - Regex/Regex Unique Tokens\|Regex Unique Tokens]]
 
-## Expanded Topics
+### Expanded Topics
+
 [[Week-1/1 - Intro/Expanded Topics/Cosine Similarities\|Cosine Similarities]]
+
+---
+
+## Spacy Vs NLTK
+
+[[Week-1/3 - Spacy vs NLTK/Spacy vs NLTK\|Spacy vs NLTK]]
+[[Week-1/3 - Spacy vs NLTK/Setting Up Your NLP Workspace\|Setting Up Your NLP Workspace]]
+[[Week-1/3 - Spacy vs NLTK/Difference in Code\|Difference in Code]]
+
+---
+
