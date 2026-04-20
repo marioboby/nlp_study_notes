@@ -42,3 +42,12 @@
 
 ---
 
+## Tokenization 
+
+[[Week-1/4 - Tokinization/Tokinization\|Tokinization]]
+
+---
+
+## Language Processing Pipeline In Spacy
+
+[[Week-1/5 - Language Processing Pipeline In Spacy/Language Processing Pipeline In Spacy\|Language Processing Pipeline In Spacy]]
