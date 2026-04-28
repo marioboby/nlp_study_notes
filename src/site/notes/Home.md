@@ -10,6 +10,12 @@
 1. [[Home#Week 1\|Week 1]]
 	1. [[Home#Intro and why NLP\|Intro]]
 	2. [[Home#Regex\|Regex]]
+	3. [[Home#Spacy Vs NLTK\|Spacy Vs NLTK]]
+	4. [[Home#Tokenization\|Tokenization]]
+	5. [[Home#Language Processing Pipeline In Spacy\|Language Processing Pipeline In Spacy]]
+	6. [[Home#Lemmatization Vs Stemming\|#Lemmatization Vs Stemming]]
+	7. [[Home#Part Of Speech\|#Part Of Speech]]
+	8. [[Home#Named Entity Recognition\|#Named Entity Recognition]]
 
 2. Week 2
 # Week 1
@@ -22,7 +28,6 @@
 [[Week-1/1 - Intro/NLP Tasks\|NLP Tasks]]
 [[Week-1/1 - Intro/NLP Pipeline\|NLP Pipeline]]
 
----
 ## Regex 
 
 [[Week-1/2 - Regex/Regex for NLP\|Regex for NLP]]
@@ -32,22 +37,28 @@
 
 [[Week-1/1 - Intro/Expanded Topics/Cosine Similarities\|Cosine Similarities]]
 
----
-
 ## Spacy Vs NLTK
 
 [[Week-1/3 - Spacy vs NLTK/Spacy vs NLTK\|Spacy vs NLTK]]
 [[Week-1/3 - Spacy vs NLTK/Setting Up Your NLP Workspace\|Setting Up Your NLP Workspace]]
 [[Week-1/3 - Spacy vs NLTK/Difference in Code\|Difference in Code]]
 
----
-
 ## Tokenization 
 
-[[Week-1/4 - Tokinization/Tokinization\|Tokinization]]
-
----
+[[Week-1/4 - Tokenization/Tokenization\|Tokenization]]
 
 ## Language Processing Pipeline In Spacy
 
 [[Week-1/5 - Language Processing Pipeline In Spacy/Language Processing Pipeline In Spacy\|Language Processing Pipeline In Spacy]]
+
+## Lemmatization Vs Stemming
+
+[[Week-1/6 - Lemmatization Vs Stemming/Lemmatization Vs Stemming\|Lemmatization Vs Stemming]]
+
+## Part Of Speech
+
+[[Week-1/7 - Part of Speech (POS)/POS\|POS]]
+
+## Named Entity Recognition 
+
+[[Week-1/8 - Named Entity Recognition/NER\|NER]]

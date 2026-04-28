@@ -14,7 +14,7 @@ In NLTK, you call specific functions for specific tasks. It treats the text as a
 
 
 
-```Python
+```run-python
 import nltk
 # Ensure you have the 'punkt' tokenizer data downloaded
 # nltk.download('punkt')
